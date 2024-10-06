@@ -24,4 +24,8 @@
 // let [[value1,], value3] = arrary;
 // console.log(value1, value3);    
   
-console.log("hi");
+// console.log("hi");
+
+// deafult paramete
+// var num = prompt("enter your name");
+// console.log(num);

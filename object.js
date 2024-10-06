@@ -43,5 +43,3 @@
 
 // let {name:MyLove,cls,isLove}=obj;
 // console.log(MyLove);
-
-console.log("hello");
